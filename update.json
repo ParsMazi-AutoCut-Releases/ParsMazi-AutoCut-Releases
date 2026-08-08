@@ -3,7 +3,7 @@
     "channel":  "stable",
     "version":  "1.6.2",
     "releasedAt":  "2026-08-08T10:46:15.8572634Z",
-    "releaseNotes":  "GÃ¼venli GitHub otomatik gÃ¼ncelleme sistemi, imzalÄ± paket doÄŸrulamasÄ± ve uygulama iÃ§i gÃ¼ncelleme bildirimi eklendi.",
+    "releaseNotes":  "ParsMazi AutoCut v1.6.2\r\n\r\n- GitHub Releases tabanlı güvenli otomatik güncelleme sistemi eklendi.\r\n- Panel açıldığında yeni kararlı sürüm günde en fazla bir kez denetlenir.\r\n- Güncelleme yalnızca değişen çekirdek dosyaları indirir; FFmpeg ve AI modeli değişmediyse tekrar indirilmez.\r\n- Her güncelleme SHA-256 ve RSA dijital imzasıyla doğrulanır.\r\n- Paket, Premiere kapandıktan sonra atomik olarak kurulur; hata oluşursa önceki çalışan sürüme geri dönülür.\r\n- Panel içine animasyonlu güncelleme bildirimi ve ilerleme durumu eklendi.\r\n- Türkçe güncelleme notları UTF-8 olarak doğru görüntülenir.\r\n- GitHub CDN önbelleği atlanarak yeni sürümlerin gecikmeden algılanması sağlandı.\r\n\r\nNot: v1.5.0 ve daha eski sürüm kullananların otomatik güncelleyiciyi edinmek için v1.6.2 Setup paketini bir kez kurması gerekir. Sonraki sürümler panel üzerinden alınacaktır.\r\n",
     "components":  [
                        {
                            "name":  "core",
