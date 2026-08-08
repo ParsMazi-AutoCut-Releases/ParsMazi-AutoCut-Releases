@@ -1,17 +1,17 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.6.1",
-    "releasedAt":  "2026-08-08T10:43:39.4015035Z",
+    "version":  "1.6.2",
+    "releasedAt":  "2026-08-08T10:46:15.8572634Z",
     "releaseNotes":  "GÃ¼venli GitHub otomatik gÃ¼ncelleme sistemi, imzalÄ± paket doÄŸrulamasÄ± ve uygulama iÃ§i gÃ¼ncelleme bildirimi eklendi.",
     "components":  [
                        {
                            "name":  "core",
-                           "version":  "1.6.1",
-                           "url":  "https://github.com/ParsMazi-AutoCut-Releases/ParsMazi-AutoCut-Releases/releases/download/v1.6.1/ParsMazi-AutoCut-Core-v1.6.1.zip",
-                           "sha256":  "049666C5782D3175E669238A5E787B489736FA5A6B2F329DA38C15F8B2B6A106",
-                           "size":  41244
+                           "version":  "1.6.2",
+                           "url":  "https://github.com/ParsMazi-AutoCut-Releases/ParsMazi-AutoCut-Releases/releases/download/v1.6.2/ParsMazi-AutoCut-Core-v1.6.2.zip",
+                           "sha256":  "FC0F9474EFE78D051E9BDCA48C5805BE9481C834ABF1EA3B9A3104D47F9C4CA1",
+                           "size":  41346
                        }
                    ],
-    "signature":  "ofyZSb8Hj/NDiq24Ohp3e5seOHPVCNd41hAoaeIRBUTOh0d2qzkRT/uD7WcmejRgHGLBvHb+qNxrNBVimyrk08XioP078glBH/QU/ntvqTycueUvZVyl/WbTGA0XQZOsCP6TjZsru3xBl2dVUKlj7YLJVIvaL1eqj6F7af86n8ujgJxA4RtOQxzqq07ZHM+PxfQavjF2XNHy/Qy9hcxF50bu3Iy4+1LavCF2SGBtp+3lSrS5Qe6mqmtFSrlv6e1dj4hFoU/fejsyXwRim+7FDf9y7OxSsVCtIUEIBPzmMUZDkuA1fyc86QFZNyeESAmDajdy+QGzme2xVmSYSdlC7A=="
+    "signature":  "WXznDZmmtrv/UC3F/t6yS6+PljKYIi6mfE67f8dCseC98u9mqyBJIHJwYvPrN/UkM3UjNdVg0m3ZA7LlKrDAxrLB+n9F80981F+A/nsZiNTMca6d/zHuFTk1QakeZ4ElxmyA0Q6lbNox68Y8H69X9G4mdSxHXWGzV9/kA4msVDamWkvK3f6Bs0UHEjA3iNKk7MV74zcqtGUVAd3Y1JVocNqWeOydy5X6Sfamr01wxcC8go5P5sNHwswPGBN4Vs2X6kkkamu6va+cgB2r/e/+igG47R2j/CbR8ydXYxufzD8m19dPTrWHSN7511JPQBBcdzGstdGPTQ3583jIjPDjXg=="
 }
