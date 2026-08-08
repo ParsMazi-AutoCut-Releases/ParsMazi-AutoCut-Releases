@@ -1,0 +1,17 @@
+{
+    "schema":  1,
+    "channel":  "stable",
+    "version":  "1.6.0",
+    "releasedAt":  "2026-08-08T10:40:03.9980152Z",
+    "releaseNotes":  "GÃ¼venli GitHub otomatik gÃ¼ncelleme sistemi, imzalÄ± paket doÄŸrulamasÄ± ve uygulama iÃ§i gÃ¼ncelleme bildirimi eklendi.",
+    "components":  [
+                       {
+                           "name":  "core",
+                           "version":  "1.6.0",
+                           "url":  "https://github.com/ParsMazi-AutoCut-Releases/ParsMazi-AutoCut-Releases/releases/download/v1.6.0/ParsMazi-AutoCut-Core-v1.6.0.zip",
+                           "sha256":  "BC53CCA33793E9C8B8ECC6575FAE179E7928165188E7E2973D8E2C7744F18460",
+                           "size":  41204
+                       }
+                   ],
+    "signature":  "Hu35bqjH90G1Sjeh1wk4iSUdZnepr6UOY87gMxMJlrxBnzHesrIFYerSrqCuaELRSsH8e2z2GtHleFMODpzj2qTKrfAP7atfqvtHQ4cFrsAD5ZmeUi5z/lMCKFr99IGqQBUc/CQBO+y613W/FNJpav2OwV5MBlsS1PB3wqkqDnrWVIkaGymRJkCPzbkg45Mlen3L6t12Art6y41gi7ICYRJJZp56sU1o3lqHmyqLmWJ1fCLecALNoT8Al+UQKHnlKkRBBYMvL39Ttw3kaGsBJum9SmoHH+P/bv+1gj61l0xVHrhIrQQOOEwn1xkElqTTdGl/ev6zlP2qN0Qsiyw4MQ=="
+}
