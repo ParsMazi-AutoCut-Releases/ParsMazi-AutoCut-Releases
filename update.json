@@ -1,17 +1,17 @@
 {
     "schema":  1,
     "channel":  "stable",
-    "version":  "1.6.2",
-    "releasedAt":  "2026-08-08T10:46:15.8572634Z",
-    "releaseNotes":  "ParsMazi AutoCut v1.6.2\r\n\r\n- GitHub Releases tabanlı güvenli otomatik güncelleme sistemi eklendi.\r\n- Panel açıldığında yeni kararlı sürüm günde en fazla bir kez denetlenir.\r\n- Güncelleme yalnızca değişen çekirdek dosyaları indirir; FFmpeg ve AI modeli değişmediyse tekrar indirilmez.\r\n- Her güncelleme SHA-256 ve RSA dijital imzasıyla doğrulanır.\r\n- Paket, Premiere kapandıktan sonra atomik olarak kurulur; hata oluşursa önceki çalışan sürüme geri dönülür.\r\n- Panel içine animasyonlu güncelleme bildirimi ve ilerleme durumu eklendi.\r\n- Türkçe güncelleme notları UTF-8 olarak doğru görüntülenir.\r\n- GitHub CDN önbelleği atlanarak yeni sürümlerin gecikmeden algılanması sağlandı.\r\n\r\nNot: v1.5.0 ve daha eski sürüm kullananların otomatik güncelleyiciyi edinmek için v1.6.2 Setup paketini bir kez kurması gerekir. Sonraki sürümler panel üzerinden alınacaktır.\r\n",
+    "version":  "1.6.3",
+    "releasedAt":  "2026-08-08T10:51:57.6799789Z",
+    "releaseNotes":  "ParsMazi AutoCut v1.6.3\n\n- GitHub Releases tabanlı güvenli otomatik güncelleme sistemi eklendi.\n- Panel açıldığında yeni kararlı sürüm günde en fazla bir kez denetlenir.\n- Güncelleme yalnızca değişen çekirdek dosyaları indirir; FFmpeg ve AI modeli değişmediyse tekrar indirilmez.\n- Her güncelleme SHA-256 ve RSA dijital imzasıyla doğrulanır.\n- Paket, Premiere kapandıktan sonra atomik olarak kurulur; hata oluşursa önceki çalışan sürüme geri dönülür.\n- Panel içine animasyonlu güncelleme bildirimi ve ilerleme durumu eklendi.\n- Türkçe güncelleme notları UTF-8 olarak doğru görüntülenir.\n- Güncelleme bildirimi doğrudan GitHub Releases üzerindeki en son imzalı dosyadan alınır; CDN önbelleği ve API kotası bağımlılığı kaldırıldı.\n\nNot: v1.5.0 ve daha eski sürüm kullananların otomatik güncelleyiciyi edinmek için v1.6.3 Setup paketini bir kez kurması gerekir. Sonraki sürümler panel üzerinden alınacaktır.\n",
     "components":  [
                        {
                            "name":  "core",
-                           "version":  "1.6.2",
-                           "url":  "https://github.com/ParsMazi-AutoCut-Releases/ParsMazi-AutoCut-Releases/releases/download/v1.6.2/ParsMazi-AutoCut-Core-v1.6.2.zip",
-                           "sha256":  "FC0F9474EFE78D051E9BDCA48C5805BE9481C834ABF1EA3B9A3104D47F9C4CA1",
-                           "size":  41346
+                           "version":  "1.6.3",
+                           "url":  "https://github.com/ParsMazi-AutoCut-Releases/ParsMazi-AutoCut-Releases/releases/download/v1.6.3/ParsMazi-AutoCut-Core-v1.6.3.zip",
+                           "sha256":  "028A432F45020B7DC88C2DFC32FDA0BF557E8C4A4311780F00C843D4793D0D17",
+                           "size":  41348
                        }
                    ],
-    "signature":  "WXznDZmmtrv/UC3F/t6yS6+PljKYIi6mfE67f8dCseC98u9mqyBJIHJwYvPrN/UkM3UjNdVg0m3ZA7LlKrDAxrLB+n9F80981F+A/nsZiNTMca6d/zHuFTk1QakeZ4ElxmyA0Q6lbNox68Y8H69X9G4mdSxHXWGzV9/kA4msVDamWkvK3f6Bs0UHEjA3iNKk7MV74zcqtGUVAd3Y1JVocNqWeOydy5X6Sfamr01wxcC8go5P5sNHwswPGBN4Vs2X6kkkamu6va+cgB2r/e/+igG47R2j/CbR8ydXYxufzD8m19dPTrWHSN7511JPQBBcdzGstdGPTQ3583jIjPDjXg=="
+    "signature":  "oRGGlckSWM6CS2mgCxTTCTZdyDObRClYbammj0YoRO+xByxzr+/dJKbLVqoSmm/lvFMBx95ZylzPFvrDNSBTjI54NC3YD2IP3HlMSiHI/TGoYcCD0uN+wJ/jv9qXe3hw3GO5+6N84CSvHv6PWj/iTOWiYq7sCbOizKe6sVpPtxWVTXp8atGM5UdpQbbFZ7TM/B6wszdUZnCfDXLJ6jduq37xQQjFeFiFxFAVInUduor7i4KU3cQbAlMWb3cMran8JZDWf2TUxuYvCYnsM/JDEBLCAcXoCW59YaPwF/wuKhBrjndyVVm+aGcraoPsAv+v7mMhrGKP/0PYRwcbHQB18w=="
 }
